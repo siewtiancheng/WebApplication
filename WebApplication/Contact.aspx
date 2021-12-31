@@ -17,7 +17,7 @@
     <table style="width: 500px; height: 500%">
         <tr>
             <td style="width:50%">
-                        Kids Name:<br />
+                        Kids Name:
                         <asp:TextBox ID="TextBox3" runat="server" Width="400px"></asp:TextBox>
                         <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ErrorMessage="Required Field" ForeColor="Red" EnableClientScript="False" ControlToValidate="TextBox3"></asp:RequiredFieldValidator>
                         <br />
@@ -34,7 +34,7 @@
                         </asp:DropDownList>
                         <br />
                         <br />
-                        Parents Name:<br />
+                        Parents Name:
                         <asp:TextBox ID="TextBox1" runat="server" Width="400px"></asp:TextBox>
                         <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Required Field" ForeColor="Red" EnableClientScript="False" ControlToValidate="TextBox1"></asp:RequiredFieldValidator>
                         <br />
