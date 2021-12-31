@@ -10,7 +10,7 @@
         425.555.0100
     </address>
 
-    <address style="width: 283px">
+    <address style="width: 300px">
         <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
         <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
     </address>
@@ -18,11 +18,11 @@
         <tr>
             <td style="width:50%">
                         Kids Name:
-                        <asp:TextBox ID="TextBox3" runat="server" Width="400px"></asp:TextBox>
-                        <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ErrorMessage="Required Field" ForeColor="Red" EnableClientScript="False" ControlToValidate="TextBox3"></asp:RequiredFieldValidator>
+                        <asp:TextBox ID="TextBox1" runat="server" Width="1000px"></asp:TextBox>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Required Field" ForeColor="Red" EnableClientScript="False" ControlToValidate="TextBox1"></asp:RequiredFieldValidator>
                         <br />
                         <br />
-                        Kids Age:<br />
+                        Kids Age:
                         <asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True" Height="22px" Width="50px">
                             <asp:ListItem>6</asp:ListItem>
                             <asp:ListItem>7</asp:ListItem>
@@ -35,8 +35,8 @@
                         <br />
                         <br />
                         Parents Name:
-                        <asp:TextBox ID="TextBox1" runat="server" Width="400px"></asp:TextBox>
-                        <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Required Field" ForeColor="Red" EnableClientScript="False" ControlToValidate="TextBox1"></asp:RequiredFieldValidator>
+                        <asp:TextBox ID="TextBox2" runat="server" Width="1000px"></asp:TextBox>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Required Field" ForeColor="Red" EnableClientScript="False" ControlToValidate="TextBox2"></asp:RequiredFieldValidator>
                         <br />
                         <br />
                         Course:<br />
@@ -48,9 +48,13 @@
                             <asp:ListItem Value="40">Science </asp:ListItem>
                         </asp:CheckBoxList>
                         <br />
-                        Email:
-                        <asp:TextBox ID="TextBox2" runat="server" Width="400px"></asp:TextBox>
-                        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Required Field" ForeColor="Red" EnableClientScript="False" ControlToValidate="TextBox2"></asp:RequiredFieldValidator>
+                        <strong>Email:</strong>
+                        <asp:TextBox ID="TextBox3" runat="server" Width="1000px" TextMode="Email"></asp:TextBox>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ErrorMessage="Required Field" ForeColor="Red" EnableClientScript="False" ControlToValidate="TextBox3"></asp:RequiredFieldValidator>
+                        <br />
+                        <br />
+                        <strong>Content:</strong><br />
+                        <asp:TextBox ID="TextBox4" runat="server" Width="1000px" Height="100px" TextMode="MultiLine"></asp:TextBox>
                         <br />
                         <br />
                         <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Submit" />
