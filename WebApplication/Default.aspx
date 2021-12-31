@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1>Home</h1>
         <p class="lead">In New Era enrichment centre, we have spent a few years in designing a set of trilingual courses, which included, Chinese, English and Malay and corresponding teaching materials for children aged between 4 – 12 years old. This teaching method will focusing on “one-on-one” learning so that children can learn trilingual efficiently and happily, and we named this teaching method as “LMLS” (Little Master Learning System).</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        
     </div>
 
 
@@ -25,7 +25,7 @@
             <p>
                 One method, three steps, six benefits, nine teaching materials</p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+                <a class="btn btn-default" href="/Course.aspx">Learn more &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
@@ -37,9 +37,7 @@
             <p>
                 Spoon-feeding
             </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
-            </p>
+           
         </div>
         <div class="col-md-4">
             <h2>Why New Era</h2>
@@ -49,9 +47,7 @@
                 &nbsp;</p>
             <p>
                 Little Master Learning System Little Master was founded in 2015. After a few years of practicing, we have come out with an effective teaching method which we named it “Little Master Learning System” and also corresponding teaching materials to ensure the children can learn trilingual efficiently and happily.</p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-            </p>
+          
         </div>
     </div>
 
