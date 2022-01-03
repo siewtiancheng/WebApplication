@@ -40,13 +40,13 @@
            
         </div>
         <div class="col-md-4">
-            <h2>Why New Era</h2>
+            <h2>Why NewEra</h2>
             <p>
                 “One-on-One” learning Every child is unique, hence they all definitely have different ability and progress when it comes to learning. NewEra&#39;s 1-on-1 learning is like premium customization that suit your unique requirements. Our teachers can repeat and explain any parts that the kids cannot understand, can stop by and repeat again when the kids could not understand. Teacher is aware of the learning conditions of every children so that they can master the three languages effectively. Not just reading, but also comprehension and application in daily life.</p>
             <p>
                 &nbsp;</p>
             <p>
-                Little Master Learning System Little Master was founded in 2015. After a few years of practicing, we have come out with an effective teaching method which we named it “NewEra Learning System” and also corresponding teaching materials to ensure the children can learn trilingual efficiently and happily.</p>
+                NewEra Learning System NewEra was founded in 2015. After a few years of practicing, we have come out with an effective teaching method which we named it “NewEra Learning System” and also corresponding teaching materials to ensure the children can learn trilingual efficiently and happily.</p>
           
         </div>
     </div>
