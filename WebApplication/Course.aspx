@@ -56,7 +56,7 @@
 
             <h3>Stimulate left and right brain development</h3>
             <p>
-                Little Master Learning System + mind game</p>
+                NewEra Learning System + mind game</p>
 
            
         </div>
