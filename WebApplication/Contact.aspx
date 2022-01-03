@@ -3,17 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <h3>Your contact page.</h3>
-    <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
-        <abbr title="Phone">P:</abbr>
-        425.555.0100
-    </address>
 
-    <address style="width: 300px">
-        <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
-    </address>
     <table style="width: 500px; height: 500%">
         <tr>
             <td style="width:50%">
@@ -58,6 +48,8 @@
                         <br />
                         <br />
                         <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Submit" />
+                        <br />
+                        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
                     </td>
         </tr>
     </table>
